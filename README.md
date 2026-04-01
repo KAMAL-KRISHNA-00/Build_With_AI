@@ -47,8 +47,8 @@ Gemini is integrated directly into the simulation engine's **autonomous decision
 
 <!--  Add screenshots of the AI Insights panel and Gemini responses in the /proof folder -->
 
-![AI Proof 1](./proof/screenshot1.png)
-![AI Proof 2](./proof/screenshot2.png)
+<img width="1866" height="932" alt="image" src="https://github.com/user-attachments/assets/a6489caf-ef4c-4a9c-817b-6f35fc5fa93d" />
+
 
 ---
 
@@ -56,9 +56,7 @@ Gemini is integrated directly into the simulation engine's **autonomous decision
 
 <!--  Add project screenshots in the /assets folder -->
 
-![Dashboard Overview](./assets/screenshot1.png)
-![Disruption Injection](./assets/screenshot2.png)
-![AI Insights Panel](./assets/screenshot3.png)
+<img width="1866" height="932" alt="image" src="https://github.com/user-attachments/assets/cff7f81f-9ab0-4e30-8ddf-0b42ca380ef0" />
 
 ---
 
@@ -66,7 +64,9 @@ Gemini is integrated directly into the simulation engine's **autonomous decision
 
 <!--  Upload to Google Drive (max 3 minutes) and paste link below -->
 
-[▶ Watch Demo](#)
+
+https://github.com/user-attachments/assets/288d8842-9ac2-4403-b704-268e64f06821
+
 
 ---
 
